@@ -44,6 +44,6 @@ Contributions to enhance this repository are welcome! If you have suggestions, i
 ## Support
 
 For any questions or issues regarding this research/manuscript, feel free to contact [Vijay Kakani](mailto:vijaykakanivja@gmail.com).
-For any questions or issues regarding the snippets used, feel free to contact [original code contributor: Cheng-Bin Jin](mailto:sbkim0407@gmail.com).
+For any questions or issues regarding the snippets used, feel free to contact original code contributor: [Cheng-Bin Jin](mailto:sbkim0407@gmail.com).
 
 Happy learning! 🚀
