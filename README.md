@@ -1,4 +1,4 @@
-# Vision-based tactile sensor mechanism for the estimation of contact position and force distribution using deep learning Repository
+# Project: Vision-based tactile sensor mechanism for the estimation of contact position and force distribution using deep learning
 
 This repository is designed to document the project results and partial metadata pertaining to the reseach: Vision-based tactile sensor mechanism for the estimation of contact position and force distribution using deep learning.
 
