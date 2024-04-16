@@ -4,6 +4,8 @@ This repository contains all my research project details pertaining to the Visio
 
 ![screenshot](GA_Tactile.png)
 
+![Tactilepatterns](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/bbae97cb-5eb8-4a83-a300-cb052e0b0c4d) ![BottleLifting](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/bec8161c-5ea6-44ad-bc44-7a5753be92c4) ![Eggpicking](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/a231b21b-4aa7-4087-88ee-e81e688a46cb) 
+
 ## Overview
 
 This repository contains:
