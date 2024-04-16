@@ -2,7 +2,7 @@
 
 This repository contains all my research project details pertaining to the Vision-based tactile sensor mechanism for the estimation of contact position and force distribution using deep learning.
 
-![screenshot](GA_Tactile.png)
+<img width="1261" alt="GA_Tactile" src="https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/fcd70660-63c4-4cd3-a413-bc91a9dff1f1">
 
 ![BottleLifting](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/bec8161c-5ea6-44ad-bc44-7a5753be92c4) ![Eggpicking](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/a231b21b-4aa7-4087-88ee-e81e688a46cb) 
 
