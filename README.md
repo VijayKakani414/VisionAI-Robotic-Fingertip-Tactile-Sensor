@@ -4,8 +4,6 @@ This repository contains all my research project details pertaining to the Visio
 
 <img width="1261" alt="GA_Tactile" src="https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/fcd70660-63c4-4cd3-a413-bc91a9dff1f1">
 
-![BottleLifting](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/bec8161c-5ea6-44ad-bc44-7a5753be92c4) ![Eggpicking](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/a231b21b-4aa7-4087-88ee-e81e688a46cb) 
-
 ## Overview
 
 This repository contains:
@@ -24,6 +22,15 @@ The repository is structured as follows:
   - README.md
 
 - Each src folder contains relevant coding files.
+
+## Robotic arm using fingertip tactile sensor with VisionAI to lift a bottle with perfect pressure/force and place it back
+
+![BottleLifting](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/bec8161c-5ea6-44ad-bc44-7a5753be92c4) 
+
+## Robotic arm using fingertip tactile sensor with VisionAI to pick an egg
+
+![Eggpicking](https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor/assets/25151205/a231b21b-4aa7-4087-88ee-e81e688a46cb) 
+
 
 ## Getting Started
 
