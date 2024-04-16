@@ -15,7 +15,7 @@ This repository contains:
 ## Repository Structure
 
 The repository is structured as follows:
-- VisionAI-Tactile-Sensor
+- VisionAI-Robotic-Fingertip-Tactile-Sensor
   - demo_src
   - dev_src
   - Manuscript.pdf
@@ -26,10 +26,10 @@ The repository is structured as follows:
 ## Getting Started
 
 1. **Clone the Repository**: 
-https://github.com/VijayKakani414/VisionAI-Tactile-Sensor.git
+https://github.com/VijayKakani414/VisionAI-Robotic-Fingertip-Tactile-Sensor.git
 
 2. **Navigate to Specific Module**: 
-cd VisionAI-Tactile-Sensor/dev_src
+cd VisionAI-Robotic-Fingertip-Tactile-Sensor/dev_src
 
 3. **Modify relevant code-snippet**: Work on code-snippet provided in the `dev_src/` directory.
 
